@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xBe69Ff1FE24566F86Ddd9Ae3C43c10f43b7055B6",
+  "SCAN_LINK": "https://etherscan.com/token/0xBe69Ff1FE24566F86Ddd9Ae3C43c10f43b7055B6",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "EVIUM RESOURCES",
+  "SYMBOL": "EVER",
+  "MAX_SUPPLY": 9998,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://evium.org",
+  "SHOW_BACKGROUND": true
+}
